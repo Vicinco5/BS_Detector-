@@ -1,4 +1,4 @@
-# Vincent's AI-BS Detector v1.0
+# Vincent's BS Detector v1.0
 
 *Prompted by Spite, Driven by Honesty*
 
