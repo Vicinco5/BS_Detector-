@@ -4,6 +4,8 @@
 
 A powerful and intuitive NLP-based (using spaCy) Streamlit web application designed to detect textual similarity, identify potential plagiarism, and analyze writing samples based on semantic structure, vocabulary, punctuation, and grammatical dependencies. Built & desiged by Vincent, with input from GPT-4.
 
+**THIS IS A WIP PROJECT that has recieved about 3 hours of work.** Many of the measures of similariry were a practice in learning how to use those statisitcs; it is not clear that they are nesecarrily the best tools to use. Having said that, they seem to work alright. 
+
 ---
 
 ## 📖 Project Overview
